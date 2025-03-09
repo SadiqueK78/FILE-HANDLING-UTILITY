@@ -38,3 +38,7 @@ Search Functionality: Add a search feature to find text in the file.
 Error Handling: Improve error handling for file-related issues.
 Backup Option: Allow users to create backups before modifying files.
 This project is a simple yet effective way to learn and practice file operations in Java.
+
+OUTPUT:-
+ ![Image](https://github.com/user-attachments/assets/73021057-e240-4d9d-8954-07ab93d216d3)
+![Image](https://github.com/user-attachments/assets/0eefe182-f659-473e-8aa2-e29b000bc24e)
